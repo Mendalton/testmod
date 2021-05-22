@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NNN",
+        "NnN",
+        "NNN"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:netherite_block"
+        },
+        "N": {
+            "item": "testmod:fabric_item"
+        }
+    },
+    "result": {
+        "item": "testmod:mod_block",
+        "count": 1
+    }
+}

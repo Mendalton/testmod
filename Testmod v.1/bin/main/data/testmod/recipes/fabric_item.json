@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "DND",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:black_wool"
+        },
+        "P": {
+            "item": "minecraft:purple_wool"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "testmod:fabric_item",
+        "count": 1
+    }
+    
+    
+}
