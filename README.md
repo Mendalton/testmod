@@ -1,2 +1,9 @@
 # testmod
-its just some testmod that I have been working on for Minecraft Fabric :p
+Code will be out soon. 
+
+Releases probably later
+
+Required mods:
+
+libGUI
+FabricAPI
