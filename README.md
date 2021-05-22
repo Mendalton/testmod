@@ -5,5 +5,5 @@ Releases probably later
 
 Required mods:
 
-libGUI
+LibGUI
 FabricAPI
