@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nN ",
+        "n/ ",
+        " / "
+    ],
+    "key": {
+        "n": {
+            "item": "testmod:mendorite_ingot"
+        },
+        "N": {
+            "item": "testmod:fabric_item"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "testmod:mendalton_axe",
+        "count": 1
+    }
+}

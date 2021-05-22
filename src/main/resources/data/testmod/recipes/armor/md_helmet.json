@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/b/",
+        "n n",
+        "   "
+    ],
+    "key": {
+        "n": {
+            "item": "testmod:fabric_item"
+        },
+        "/": {
+            "item": "testmod:mendorite_ingot"
+        },
+        "b": {
+            "item": "testmod:mod_block"
+        }
+    },
+    "result": {
+        "item": "testmod:md_helmet",
+        "count": 1
+    }
+}

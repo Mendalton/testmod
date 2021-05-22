@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item":"testmod:md_ore"
+    },
+    "result": "testmod:mendorite",
+    "experience": 80,
+    "cookingtime": 800
+}
